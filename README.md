@@ -12,8 +12,8 @@ CubicCraze is a block puzzle game inspired by the classic game Tetris. The goal 
 
 ## Screenshots
 
-![Screenshot 1](assets/1.jpg)
-![Screenshot 2](assets/2.jpg)
+<img src="assets/1.jpg" alt="Screenshot 1" width="400" height="300">
+<img src="assets/2.jpg" alt="Screenshot 2" width="400" height="300">
 
 ## Features
 
