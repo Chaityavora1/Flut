@@ -1,16 +1,27 @@
-# tetramind
+# CubicCraze
 
-A new Flutter project.
+CubicCraze is a block puzzle game inspired by the classic game Tetris. The goal of the game is to fit different shapes of blocks, called "tetrominoes," into a grid without leaving gaps. Complete a line to clear it and earn points. The game ends when there's no more space to fit the incoming tetrominoes.
 
-## Getting Started
+## How to Play
 
-This project is a starting point for a Flutter application.
+1. Blocks of different shapes called tetrominoes will fall from the top of the screen.
+2. You can move the tetrominoes left or right and rotate them to fit into the grid below.
+3. Once a tetromino lands, the next one will start falling.
+4. Clear lines by filling the entire row with blocks.
+5. The game ends when the blocks reach the top of the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](assets/1.jpg)
+![Screenshot 2](assets/2.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Classic block puzzle gameplay
+- Intuitive controls
+- Scoring system
+
+## Installation
+
+To play CubicCraze, download the game from the [Releases](https://github.com/aryamanshrivastava/CubicCraze) page and install it on your device.
+
